@@ -1,0 +1,7 @@
+# exclude everything...
+/*
+
+# ...except this file, the src directory, and the readme
+!/.gitignore
+!/src
+!/README.md
